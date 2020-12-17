@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"best code i've seen" -Helen Keller
 Use the left arrow to go back!
